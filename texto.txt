@@ -1,2 +1,4 @@
 Escribiendo en el fichero.
 Parece que esto funciona.
+h1 hola curso Git
+Añadido extra (segundo commit)
